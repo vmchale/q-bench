@@ -1,6 +1,6 @@
 # Vignette
 
-From [this]https://cran.r-project.org/web/packages/data.table/vignettes/datatable-intro.html) introduction to the data.table package.
+From [this](https://cran.r-project.org/web/packages/data.table/vignettes/datatable-intro.html) introduction to the data.table package.
 
 | Library/Language | Time | Cores |
 | ---------------- | ---- | ----- |
